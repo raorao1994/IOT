@@ -1,0 +1,35 @@
+nodemcu 8266修改DS18B20温度传感器分辨率:http://blog.csdn.net/silno/article/details/72866623
+
+esp8266实验：搭建最小系统，刷nodemcu固件，dht11温度读取并上传服务器:http://www.lixin.me/blog/2017/02/13/esp8266dht11min/
+
+*nodeMCU自动化控制实现空气质量管家:https://segmentfault.com/a/1190000008377546
+
+*ESP8266 作为 MCU 采集温湿度并上传到 onenet（三）:https://open.iot.10086.cn/bbs/thread-421-1-1.html(重点)
+
+*MATLAB和物联网连载5: 物篇之NodeMCU:https://zhuanlan.zhihu.com/p/22151904
+
+*大神代码：https://github.com/nodemcu/nodemcu-firmware
+
+学习网站：https://nodemcu.readthedocs.io/en/master/en/modules/net/#netcreateserver
+
+*ESP8266基于nodemcu固件红外报警硬件及软件分享:http://www.geek-workshop.com/forum.php?mod=viewthread&tid=27597
+
+*ESP8266无MCU连接传感器18B20上传:http://www.geek-workshop.com/thread-12689-1-1.html
+
+*NodeMCU上通过DS18b20采集室温:http://blog.csdn.net/dingzz/article/details/46888699
+
+温湿度传感器：http://www.arduino.cn/forum.php?mod=viewthread&tid=3604
+
+*疯狂的四驱车]更新nodemcu的wifi简单控制，和超声波传感器：http://www.nxpic.org/module/forum/thread-605243-1-1.html
+
+单片机控制雷达测距模块HC-SR04测量距离（通过测试）http://blog.csdn.net/weiyidianliu/article/details/40107621
+
+超声波模块HC-SR04简介以及编程:
+http://blog.sina.cn/dpool/blog/s/blog_62efd1040100v4hn.html?vt=4
+http://bbs.elecfans.com/forum.php?mobile=yes&mod=viewthread&tid=451330
+http://www.fuhome.net/bbs/forum.php?extra=page=1&mod=viewthread&tid=2160
+https://m.sanwen8.cn/p/4ffgDrQ.html
+
+
+ESP8266与Arduino Pro Mini基于贝壳物联的远程红外遥控、温湿度监测、LED控制:https://www.bigiot.net/talk/219.html
+ESP8266基于nodemcu固件红外报警硬件及软件分享:https://www.bigiot.net/talk/93.html

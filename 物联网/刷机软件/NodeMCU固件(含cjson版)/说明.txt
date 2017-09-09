@@ -1,0 +1,2 @@
+注：integer 不支持 float，但节省了 11 KB
+固件含如下模块: cjson, file, gpio, net, node, pwm, tmr, uart, wifi.
